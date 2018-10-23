@@ -21,7 +21,7 @@ aplicación es re-escribirla usando una nueva tecnología.
 
 
 
-## Entrega
+### Entrega
 
 [Proyecto](https://milelym.github.io/scl-2018-1-social-network-frameworks/)
 
