@@ -15,7 +15,8 @@ que lo mejor para seguir evolucionando una
 aplicación es re-escribirla usando una nueva tecnología.
 
 ![Red Social React](https://user-images.githubusercontent.com/39282714/47377725-6de1ff00-d6cc-11e8-9b95-3d8f61fedf62.jpg)
-
+## Desarrollado para 
+[Laboratoria](http://laboratoria.la)
 
 
 
